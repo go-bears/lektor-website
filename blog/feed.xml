@@ -3,23 +3,23 @@
   <title type="text">The Transcript</title>
   <id>urn:uuid:992b7b90-0385-3a0b-9704-53b3766c6b7e</id>
   <updated>2016-04-11T00:00:00Z</updated>
-  <link href="https://www.getlektor.com/blog/" />
-  <link href="https://www.getlektor.com/blog/feed.xml" rel="self" />
+  <link href="https://go-bears/lektor-website/blog/" />
+  <link href="https://go-bears/lektor-website/blog/feed.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <subtitle type="text">Lektor's blog</subtitle>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
-  <entry xml:base="https://www.getlektor.com/blog/2016/4/lektor-2-released/">
+  <entry xml:base="https://go-bears/lektor-website/blog/2016/4/lektor-2-released/">
     <title type="text">Lektor 2.0 Released</title>
     <id>urn:uuid:6c89a599-5413-3b4c-a3ca-2994d6c90a49</id>
     <updated>2016-04-11T00:00:00Z</updated>
-    <link href="https://www.getlektor.com/blog/2016/4/lektor-2-released/" />
+    <link href="https://go-bears/lektor-website/blog/2016/4/lektor-2-released/" />
     <author>
       <name>Armin Ronacher</name>
     </author>
     <content type="html">
-&lt;div class=&quot;page-banner page-banner-500&quot; style=&quot;background-image: url(/blog/2016/4/lektor-2-released/banner.jpg)&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;page-banner page-banner-500&quot; style=&quot;background-image: url(/lektor-website/blog/2016/4/lektor-2-released/banner.jpg)&quot;&gt;&lt;/div&gt;
 
 &lt;div class=&quot;text-block text-block-default&quot;&gt;
   &lt;p&gt;After quite a bit of wait, I'm happy to announce the 2.0 release of Lektor.
@@ -86,16 +86,16 @@ the already existing one.&lt;/p&gt;
 
 &lt;/div&gt;</content>
   </entry>
-  <entry xml:base="https://www.getlektor.com/blog/2016/3/lektor-at-rails-girls-summer-of-code/">
+  <entry xml:base="https://go-bears/lektor-website/blog/2016/3/lektor-at-rails-girls-summer-of-code/">
     <title type="text">Lektor at Rails Girls Summer of Code 2016</title>
     <id>urn:uuid:fb6ab972-72e4-34fd-90fb-f016dc7e7c13</id>
     <updated>2016-03-17T00:00:00Z</updated>
-    <link href="https://www.getlektor.com/blog/2016/3/lektor-at-rails-girls-summer-of-code/" />
+    <link href="https://go-bears/lektor-website/blog/2016/3/lektor-at-rails-girls-summer-of-code/" />
     <author>
       <name>Armin Ronacher</name>
     </author>
     <content type="html">
-&lt;div class=&quot;page-banner page-banner-500&quot; style=&quot;background-image: url(/blog/2016/3/lektor-at-rails-girls-summer-of-code/banner.jpg)&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;page-banner page-banner-500&quot; style=&quot;background-image: url(/lektor-website/blog/2016/3/lektor-at-rails-girls-summer-of-code/banner.jpg)&quot;&gt;&lt;/div&gt;
 
 &lt;div class=&quot;text-block text-block-default&quot;&gt;
   &lt;p&gt;I'm happy to announce that Lektor is participating as a project in this year's
@@ -122,16 +122,16 @@ class=&quot;js-gitter-toggle-chat-button&quot;&gt;Gitter&lt;/a&gt;.&lt;/p&gt;
 
 &lt;/div&gt;</content>
   </entry>
-  <entry xml:base="https://www.getlektor.com/blog/2016/3/road-to-lektor-2/">
+  <entry xml:base="https://go-bears/lektor-website/blog/2016/3/road-to-lektor-2/">
     <title type="text">Road to Lektor 2.0</title>
     <id>urn:uuid:9ddc7fcf-e770-367f-bad7-e0a64ac7967e</id>
     <updated>2016-03-10T00:00:00Z</updated>
-    <link href="https://www.getlektor.com/blog/2016/3/road-to-lektor-2/" />
+    <link href="https://go-bears/lektor-website/blog/2016/3/road-to-lektor-2/" />
     <author>
       <name>Armin Ronacher</name>
     </author>
     <content type="html">
-&lt;div class=&quot;page-banner page-banner-500&quot; style=&quot;background-image: url(/blog/2016/3/road-to-lektor-2/header.jpg)&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;page-banner page-banner-500&quot; style=&quot;background-image: url(/lektor-website/blog/2016/3/road-to-lektor-2/header.jpg)&quot;&gt;&lt;/div&gt;
 
 &lt;div class=&quot;text-block text-block-default&quot;&gt;
   &lt;p&gt;It's great to see what people have been building with Lektor so far. It also
@@ -177,16 +177,16 @@ source tree.  For instance you can build feeds, blog archives etc.&lt;/li&gt;
 
 &lt;/div&gt;</content>
   </entry>
-  <entry xml:base="https://www.getlektor.com/blog/2015/12/travis-and-ghpages/">
+  <entry xml:base="https://go-bears/lektor-website/blog/2015/12/travis-and-ghpages/">
     <title type="text">Lektor Loves Travis-CI and GitHub Pages</title>
     <id>urn:uuid:b8d40c90-c5a8-3195-85c2-4ed999b86ba3</id>
     <updated>2015-12-23T00:00:00Z</updated>
-    <link href="https://www.getlektor.com/blog/2015/12/travis-and-ghpages/" />
+    <link href="https://go-bears/lektor-website/blog/2015/12/travis-and-ghpages/" />
     <author>
       <name>Armin Ronacher</name>
     </author>
     <content type="html">
-&lt;div class=&quot;page-banner page-banner-500&quot; style=&quot;background-image: url(/blog/2015/12/travis-and-ghpages/header.jpg)&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;page-banner page-banner-500&quot; style=&quot;background-image: url(/lektor-website/blog/2015/12/travis-and-ghpages/header.jpg)&quot;&gt;&lt;/div&gt;
 
 &lt;div class=&quot;text-block text-block-default&quot;&gt;
   &lt;p&gt;Open Source projects need websites, that's a given, and one of the most popular
@@ -205,16 +205,16 @@ a screencast that goes with it:&lt;/p&gt;
 
 &lt;/div&gt;</content>
   </entry>
-  <entry xml:base="https://www.getlektor.com/blog/2015/12/hello-lektor/">
+  <entry xml:base="https://go-bears/lektor-website/blog/2015/12/hello-lektor/">
     <title type="text">Hello Lektor!</title>
     <id>urn:uuid:96ddeafd-ee99-3230-9f07-171bc0179c9e</id>
     <updated>2015-12-21T00:00:00Z</updated>
-    <link href="https://www.getlektor.com/blog/2015/12/hello-lektor/" />
+    <link href="https://go-bears/lektor-website/blog/2015/12/hello-lektor/" />
     <author>
       <name>Armin Ronacher</name>
     </author>
     <content type="html">
-&lt;div class=&quot;page-banner page-banner-500&quot; style=&quot;background-image: url(/blog/2015/12/hello-lektor/banner.jpg)&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;page-banner page-banner-500&quot; style=&quot;background-image: url(/lektor-website/blog/2015/12/hello-lektor/banner.jpg)&quot;&gt;&lt;/div&gt;
 
 &lt;div class=&quot;text-block text-block-default&quot;&gt;
   &lt;p&gt;About &lt;a href=&quot;http://w3techs.com/technologies/details/cm-wordpress/all/all&quot;&gt;25% of the Internet uses
